@@ -2,7 +2,7 @@
 Audio-Visualizer program that utilizes Processing's Sound Library and FFT to create visuals from an audio input.
 
 ## Creators
-Ryan Koble https://www.ryankoble.com/ 
+Ryan Koble https://www.ryankoble.com/  
 Jamie Catacutan http://jamie-catt.com/
 
 ## Process
