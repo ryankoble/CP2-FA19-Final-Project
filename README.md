@@ -22,5 +22,5 @@ In the example below, the visualization is optimized for an acoustic guitar inpu
 https://www.youtube.com/watch?v=LMvTwha9elA
 
 ## References
-(https://processing.org/reference/libraries/sound/FFT.html)
+(https://processing.org/reference/libraries/sound/FFT.html)  
 (https://processing.org/examples/simpleparticlesystem.html)
